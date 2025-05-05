@@ -9,9 +9,13 @@ Project Highlights
 
 Structure
 ├── utils/                # Preprocessing
+
 ├── embeddings/           # Model-specific embedding scripts
+
 ├── clustering/           # KMeans, cluster analysis, topic labeling
+
 ├── visualization/        # PCA / t-SNE plotting scripts
+
 └──  crosslingual/        # Cross-language evaluation (consistency check, mapping)
 
 
