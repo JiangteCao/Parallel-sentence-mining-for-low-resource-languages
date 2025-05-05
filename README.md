@@ -21,3 +21,5 @@ Structure
 └──  crosslingual -- Cross-language evaluation (consistency check, mapping)
 
 
+## 🔽 Download Embedding Files
+https://drive.google.com/drive/folders/1-3VSJFOCjipwlYPJgVe6y0qd72DfJt2y?usp=share_link
