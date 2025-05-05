@@ -8,14 +8,14 @@ Project Highlights
 - Cross-lingual cluster consistency analysis
 
 Structure
-├── utils/                # Preprocessing
+├── utils/                            # Preprocessing
 
-├── embeddings/           # Model-specific embedding scripts
+├── embeddings/                       # Model-specific embedding scripts
 
-├── clustering/           # KMeans, cluster analysis, topic labeling
+├── clustering/                       # KMeans, cluster analysis, topic labeling
 
-├── visualization/        # PCA / t-SNE plotting scripts
+├── visualization/                    # PCA / t-SNE plotting scripts
 
-└──  crosslingual/        # Cross-language evaluation (consistency check, mapping)
+└──  crosslingual/                    # Cross-language evaluation (consistency check, mapping)
 
 
